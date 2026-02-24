@@ -1,4 +1,4 @@
-#  Queen Mary machine learning society Valentine's Day Hackathon 2026
+#  Queen Mary Machine learning society Valentine's Day Hackathon 2026
 
 **2nd place** | **0.59235 AUC** (1st: 0.59275)
 
