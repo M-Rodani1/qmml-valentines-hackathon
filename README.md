@@ -11,3 +11,4 @@ Predict whether a person has a Valentine's date from demographic and social attr
 - Tuned LightGBM, XGBoost and CatBoost with Optuna (50 trials each)
 - Rank-based ensemble of all three models
 
+Link to hackathon kaggle: https://www.kaggle.com/competitions/valentines-hackathon/overview
