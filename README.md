@@ -1,6 +1,6 @@
 # Valentine's Day Hackathon 2026
 
-**2nd place** | **0.59309 AUC** (1st: 0.59310)
+**2nd place** | **0.59235 AUC** (1st: 0.59275 )
 
 Predict whether a person has a Valentine's date from demographic and social attributes. 700k train rows, evaluated on ROC-AUC.
 
